@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "memberStaticFunc", "memberS
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chainfuction", "chainfuction\chainfuction.vcxproj", "{B4482543-3462-490E-8189-3B752E538451}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "konstruktor", "konstruktor\konstruktor.vcxproj", "{EFCBC080-8350-4CAD-9802-5BE7C52989AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{B4482543-3462-490E-8189-3B752E538451}.Release|x64.Build.0 = Release|x64
 		{B4482543-3462-490E-8189-3B752E538451}.Release|x86.ActiveCfg = Release|Win32
 		{B4482543-3462-490E-8189-3B752E538451}.Release|x86.Build.0 = Release|Win32
+		{EFCBC080-8350-4CAD-9802-5BE7C52989AD}.Debug|x64.ActiveCfg = Debug|x64
+		{EFCBC080-8350-4CAD-9802-5BE7C52989AD}.Debug|x64.Build.0 = Debug|x64
+		{EFCBC080-8350-4CAD-9802-5BE7C52989AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFCBC080-8350-4CAD-9802-5BE7C52989AD}.Debug|x86.Build.0 = Debug|Win32
+		{EFCBC080-8350-4CAD-9802-5BE7C52989AD}.Release|x64.ActiveCfg = Release|x64
+		{EFCBC080-8350-4CAD-9802-5BE7C52989AD}.Release|x64.Build.0 = Release|x64
+		{EFCBC080-8350-4CAD-9802-5BE7C52989AD}.Release|x86.ActiveCfg = Release|Win32
+		{EFCBC080-8350-4CAD-9802-5BE7C52989AD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
